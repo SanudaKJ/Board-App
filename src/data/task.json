@@ -1,0 +1,159 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "User Interview",
+      "description": "Conduct user interviews for product feedback",
+      "status": "To Do",
+      "priority": "High",
+      "assignees": ["john_doe"],
+      "tags": ["Research"],
+      "dueDate": "Tomorrow",
+      "comments": 4,
+      "attachments": 2
+    },
+    {
+      "id": "2",
+      "title": "UI Design",
+      "description": "Create UI mockups for the new feature",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignees": ["jane_smith"],
+      "tags": ["Design"],
+      "dueDate": "Tomorrow",
+      "comments": 2,
+      "attachments": 1
+    },
+    {
+      "id": "3",
+      "title": "Design System",
+      "description": "Develop comprehensive design system",
+      "status": "To Do",
+      "priority": "High",
+      "assignees": ["bob_johnson"],
+      "tags": ["Design"],
+      "dueDate": null,
+      "comments": 5,
+      "attachments": 0,
+      "reports": 2
+    },
+    {
+      "id": "4",
+      "title": "Prototype",
+      "description": "Build interactive prototype",
+      "status": "Approved",
+      "priority": "Medium",
+      "assignees": ["alice_wilson"],
+      "tags": ["Development"],
+      "dueDate": null,
+      "comments": 36,
+      "attachments": 243
+    },
+    {
+      "id": "5",
+      "title": "Check Clients Feedback",
+      "description": "Review and analyze client feedback",
+      "status": "In Progress",
+      "priority": "High",
+      "assignees": ["charlie_brown"],
+      "tags": ["Research"],
+      "dueDate": "Due 22 April, 2022",
+      "comments": 8,
+      "attachments": 0
+    },
+    {
+      "id": "6",
+      "title": "Group Management",
+      "description": "Manage user groups and permissions",
+      "status": "Reject",
+      "priority": "Low",
+      "assignees": ["diana_prince"],
+      "tags": ["Management"],
+      "dueDate": null,
+      "comments": 326,
+      "attachments": 0
+    },
+    {
+      "id": "7",
+      "title": "Speech",
+      "description": "Prepare presentation speech",
+      "status": "To Do",
+      "priority": "Medium",
+      "assignees": ["eve_adams"],
+      "tags": ["Presentation"],
+      "dueDate": null,
+      "comments": 1,
+      "attachments": 3
+    },
+    {
+      "id": "8",
+      "title": "Detail Page",
+      "description": "Create detailed product pages",
+      "status": "Approved",
+      "priority": "High",
+      "assignees": ["frank_miller"],
+      "tags": ["Development"],
+      "dueDate": null,
+      "comments": 8,
+      "attachments": 28
+    },
+    {
+      "id": "9",
+      "title": "Design System",
+      "description": "Update design system components",
+      "status": "Reject",
+      "priority": "Medium",
+      "assignees": ["grace_kelly"],
+      "tags": ["Design"],
+      "dueDate": null,
+      "comments": 3,
+      "attachments": 8,
+      "reports": 2
+    },
+    {
+      "id": "10",
+      "title": "Wireframe",
+      "description": "Create wireframes for new features",
+      "status": "To Do",
+      "priority": "Low",
+      "assignees": ["henry_ford"],
+      "tags": ["Design"],
+      "dueDate": null,
+      "comments": 4,
+      "attachments": 0
+    }
+    
+  ],
+  "users": {
+    "john_doe": {
+      "name": "John Doe",
+      "avatar": "/avatars/john.jpg",
+      "initials": "JD"
+    },
+    "jane_smith": {
+      "name": "Jane Smith",
+      "avatar": "/avatars/jane.jpg",
+      "initials": "JS"
+    },
+    "bob_johnson": {
+      "name": "Bob Johnson",
+      "avatar": "/avatars/bob.jpg",
+      "initials": "BJ"
+    },
+    "alice_wilson": {
+      "name": "Alice Wilson",
+      "avatar": "/avatars/alice.jpg",
+      "initials": "AW"
+    },
+    "charlie_brown": {
+      "name": "Charlie Brown",
+      "avatar": "/avatars/charlie.jpg",
+      "initials": "CB"
+    },
+    "diana_prince": {
+      "name": "Diana Prince",
+      "avatar": "/avatars/diana.jpg",
+      "initials": "DP"
+    }
+  }
+}
